@@ -12,7 +12,7 @@ it works .... (probably)
 run it in your hack box
 
 ```lua
-loadstring(game:HttpGet('https://github.com/xxpwnxxx420lord/Nutho/blob/main/load.lua', true))()
+loadstring(game:HttpGet('https://github.com/xxpwnxxx420lord/Nutho/blob/main/load.lua?raw=true', true))()
 ```
 
 ## stars
